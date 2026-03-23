@@ -1,4 +1,4 @@
-# codepranjal129-hub-
+# codepranjal129-hub
 # 👋 Hi, I'm Pranjal Dutta
 
 🎓 CSE Student | 📊 Aspiring Data Scientist
